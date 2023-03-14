@@ -6,7 +6,7 @@ We will be using object oriented C++ as the core of this application, we will be
 # Purpose
 This application will be submitted as a semester project for an object oriented programming course, it will also be our OOP learning space.
 # CREATORS
-. Amira El-Gard
-. Amira Essam
-. Mariam Mahrous
-. Basma Mohamed
+# Amira El-Gard
+# Amira Essam
+# Mariam Mahrous
+# Basma Mohamed
