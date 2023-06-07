@@ -4,7 +4,7 @@ A fancy colorful application is an effective way to teach kids some computer ski
 # LANGUAGE
 We will be using object oriented C++ as the core of this application, we will be using CMU graphics library built in C to create the user interface and application-user interaction.
 # Purpose
-This application will be submitted as a semester project for an object oriented programming course, it will also be our OOP learning space.
+This application was submitted as a semester project for an object oriented programming course, it will also be our OOP learning space.
 # CREATORS
  Amira El-Garf
  
